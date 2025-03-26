@@ -15,9 +15,7 @@ I used *web scraping* to get the reviews given by the user in the IMDB site usin
 
 
 
-### Steps To Deploy The App:
-
-I Prepared the dataset:
+### Development Process:
 
         1. Data Extraction
         2. Exploratory Data Analysis(EDA)
